@@ -9,7 +9,7 @@
 - Technologies used: `HTML, CSS, CSS Flexbox, CSS Grid, JavaScript, DOM`
 - The project consists of 3 pages: *main, login and news feed*
 
-![Recordit GIF](http://http://g.recordit.co/OAO5WoR4Os.gif)
+![Recordit GIF](http://g.recordit.co/OAO5WoR4Os.gif)
 
 ---
 
