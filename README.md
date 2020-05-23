@@ -15,9 +15,7 @@
 - The website is responsive  
 - A dark mode is available  
   
-![Recordit GIF](http://g.recordit.co/Gy7bXFQzqa.gif)
-
----
+![Recordit GIF](http://g.recordit.co/Gy7bXFQzqa.gif)  
 
 ## Contributors
 
