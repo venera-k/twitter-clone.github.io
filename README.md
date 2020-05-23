@@ -7,7 +7,9 @@
 ## Features
 
 - Technologies used: `HTML, CSS, CSS Flexbox, CSS Grid, JavaScript, DOM`
-- I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
+- The project consists of 3 pages: *main, login and news feed*
+
+![Recordit GIF](http://http://g.recordit.co/OAO5WoR4Os.gif)
 
 ---
 
