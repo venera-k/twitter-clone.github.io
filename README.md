@@ -6,14 +6,14 @@
 
 ## Features
 
-- Going into more detail on code and technologies used
+- Technologies used: `HTML, CSS, CSS Flexbox, CSS Grid, JavaScript, DOM`
 - I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
 
 ---
 
 ## Contributors
 
-> This project was build by Venera Kanybekova
+> This project was build by <a href="https://github.com/venera-k" target="_blank">Venera Kanybekova</a>
 
 ---
 
