@@ -2,7 +2,7 @@
 
 # Twirrer
 
-> This is a clone of Twitter built using HTML, CSS and JavaScript
+> This is a clone of Twitter built using HTML, CSS and JavaScript. In order to access a final look go here: https://venera-k.github.io/twitter-clone.github.io/
 
 **Badges will go here**
 
