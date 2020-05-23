@@ -1,6 +1,4 @@
-<a href="https://venera-k.github.io/twitter-clone.github.io/"><img src="https://image.flaticon.com/icons/svg/733/733579.svg" title="FVCproductions" alt="FVCproductions"></a>
-
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
+<a href="https://venera-k.github.io/twitter-clone.github.io/"><img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="40px" height= "40px"></a>
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
