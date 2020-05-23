@@ -1,14 +1,8 @@
 <a href="https://venera-k.github.io/twitter-clone.github.io/"><img src="https://image.flaticon.com/icons/svg/733/733579.svg" width="40px" height= "40px"></a>
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+# Twirrer
 
-# Repository Title Goes Here
-
-> Subtitle or Short Description Goes Here
-
-> ideally one sentence
-
-> include terms/tags that can be searched
+> This is a clone of Twitter built using HTML, CSS and JavaScript
 
 **Badges will go here**
 
