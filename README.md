@@ -11,7 +11,8 @@
 
 ![Recordit GIF](http://g.recordit.co/fNSDk57CDs.gif)
 
-- The website is responsive 
+- The website is responsive  
+  
 ![Recordit GIF](http://g.recordit.co/Gy7bXFQzqa.gif)
 
 ---
