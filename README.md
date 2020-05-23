@@ -12,6 +12,7 @@
 ![Recordit GIF](http://g.recordit.co/fNSDk57CDs.gif)
 
 - The website is responsive  
+- A dark mode is available  
   
 ![Recordit GIF](http://g.recordit.co/Gy7bXFQzqa.gif)
 
