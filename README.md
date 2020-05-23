@@ -21,7 +21,7 @@
 
 ## Contributors
 
-> This project was build by <a href="https://github.com/venera-k" target="_blank">Venera Kanybekova</a>
+> This project was build by <a href="https://github.com/venera-k" target="_blank">Venera Kanybekova</a> with the help of <a href="https://skl.sh/3cXZnRU" target="_blank">this</a> tutorial
 
 ---
 
